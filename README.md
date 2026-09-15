@@ -4,7 +4,7 @@
 
 **[Открыть демо сайта →](https://serezjjja.github.io/kryak-cleaning/)**
 
-![Главная страница на компьютере](docs/screenshots/desktop.jpg)
+![Страница сайта целиком](docs/screenshots/full-page.jpg)
 
 ## Задача
 
@@ -28,13 +28,6 @@
 ## Мобильная версия
 
 <img src="docs/screenshots/mobile.jpg" alt="Сайт на телефоне" width="390">
-
-<details>
-<summary>Посмотреть страницу целиком</summary>
-
-![Полная версия страницы](docs/screenshots/full-page.jpg)
-
-</details>
 
 ## Технологии
 
